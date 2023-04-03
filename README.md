@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NatumanyaGuy
-- 👀 I’m interested in Web dev using Svelte and Cloud computing.
-- 🌱 I’m currently learning NativeScript and looking to learn Dart and Flutter
-- 💞️ I’m looking to collaborate on anything that aims to improve access and provision of Health services and Education
+- 👀 I’m interested in Web dev using Svelte.
+- 🌱 I’m currently learning Dart and Flutter
+- 💞️ I’m looking to collaborate on anything Digito projects in the fields of Nutrition, Health, Science & Education
 - 📫 How to reach me 📧 guynatumanya@gmail.com
 
 <!---
