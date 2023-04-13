@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NatumanyaGuy
-- 👀 I’m interested in Web dev using Svelte.
+- 👀 I’m interested in Web dev using Sveltekit.
 - 🌱 I’m currently learning Dart and Flutter
 - 💞️ I’m looking to collaborate on anything Digito projects in the fields of Nutrition, Health, Science & Education
 - 📫 How to reach me 📧 guynatumanya@gmail.com
